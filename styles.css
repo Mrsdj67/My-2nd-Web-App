@@ -1,0 +1,16 @@
+h1 {
+    text-transform: uppercase;
+ color: maroon;
+font-family: 'Eater', cursive;
+border: 4mm ridge rgb(170, 50, 220, .6); }
+ul {background-color: blue; width: 250px; }
+
+  img { width: 250px; }
+.frosty { color: red; }
+.pixie { color: pink; }
+.dixie { color: purple; }
+.blue-background { background-color: blue; }
+
+
+text-transform
+p { font-size: 24px; }
